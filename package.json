@@ -1,0 +1,14 @@
+{
+  "name": "@radweb/webpack-run-command-plugin",
+  "version": "0.1.0-beta1",
+  "description": "Run a shell command at a customisable stage of the webpack process",
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "shell",
+    "commands",
+    "plugin"
+  ],
+  "author": "Louis Capitanchik <louis@radweb.co.uk>",
+  "license": "Apache-2.0"
+}
