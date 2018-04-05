@@ -10,5 +10,11 @@
     "plugin"
   ],
   "author": "Louis Capitanchik <louis@radweb.co.uk>",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "peerDependencies": {
+	  "webpack": ">=4.1.0"
+  },
+  "engines": {
+	  "node": ">=4.0.0"
+  }
 }
